@@ -1,224 +1,255 @@
-👨‍💻 Madhav Pathak
+# 👨‍💻 Madhav Pathak
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&#x26;color=gradient&#x26;height=200&#x26;section=header&#x26;text=Madhav%20Pathak&#x26;fontSize=60&#x26;animation=fadeIn&#x26;fontAlignY=38&#x26;desc=Backend%20Developer%20|%20Full%20Stack%20Engineer&#x26;descAlignY=51&#x26;descAlign=62" alt="Header Banner">
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&#x26;weight=500&#x26;size=24&#x26;pause=1000&#x26;color=00D4FF&#x26;center=true&#x26;vCenter=true&#x26;width=500&#x26;lines=Backend+Developer;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavpathak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmadhav2803@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918171924503)
 
+</div>
 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&#x26;logo=portfolio&#x26;logoColor=white" alt="Portfolio">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&#x26;logo=whatsapp&#x26;logoColor=white" alt="Phone">
-  <img src="https://visitcount.itsvg.in/api?id=madhavpathak&#x26;label=Profile%20Views&#x26;color=1&#x26;icon=5&#x26;pretty=true" alt="Profile Views">
+---
 
-🔹 Redefining Developer Experience
-Turning ideas into scalable digital solutions
+## 🚀 *Professional Summary*
 
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Development Animation" width="300">
+	⁠"Turning ideas into scalable digital solutions"
 
-Results-driven Backend Developer with 2+ years of experience designing and delivering high-performance, scalable applications. Specialized in JavaScript, Node.js, Express.js, and SQL, achieving 25% system performance improvements and 35-40% faster database queries. Passionate about building secure, efficient backend systems and solving complex technical challenges.
-javascriptimport { createDeveloper } from 'tech-stack';
+Results-driven *Backend Developer* with a proven track record of designing and delivering high-quality, scalable applications. Specialized in *JavaScript, **Node.js, **Express.js, and **SQL* with demonstrated success in improving system performance by *25%* and optimizing database queries.
 
-const madhav = await createDeveloper({
-  role: 'Backend Developer',
-  experience: '2+ years',
-  location: 'India',
-  currentStatus: 'MCA Student at KIIT',
-  expertise: ['Node.js', 'Express.js', 'SQL', 'React', 'System Design'],
-  passion: 'Building scalable digital solutions'
-});
+<div align="center">
 
-madhav.printProfile();
-🔹 Flexible Skills and Tools for Modern Web Development
+![Profile Views](https://komarev.com/ghpvc/?username=madhavpathak&color=blueviolet&style=for-the-badge)
+![Years Badge](https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-10%2B-orange?style=for-the-badge)
 
-Instant Project Start: Rapid setup with Node.js & Express
-Lightning Fast Optimization: Performance tuning for large-scale apps
-Rich Features: JavaScript, TypeScript, SQL, and more out-of-the-box
-Optimized Builds: Scalable architectures & database optimization
-Fully Typed APIs: Secure, typed code for reliability
-Full-Stack Support: Seamless integration of frontend & backend
+</div>
 
+---
 
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Development Animation" width="300">
+## 🎓 *Education*
 
-🔹 Powering Your Favorite Technologies
+<table>
+<tr>
+<td align="center" width="50%">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="AWS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="Jira">
+### 🎯 *Current*
+*Master of Computer Applications (MCA)*  
+KIIT (Kalinga Institute of Industrial Technology)  
+*2025 - 2027*
 
-🔹 Loved by the Community
+</td>
+<td align="center" width="50%">
 
-"I'm loving what Madhav enables in backend development." — Ryan Carniato
-"Madhav's skills are the United Nations of JavaScript." — Rich Harris
-"Each time I see Madhav's code, I feel pure joy." — David East
+### 🏆 *Completed*
+*Bachelor of Computer Applications (BCA)*  
+Chandigarh University  
+*2022 - 2025*
 
-🎓 Education
+</td>
+</tr>
+</table>
 
+---
 
+## 💼 *Professional Experience*
 
+### 🔥 *Seagro* - Backend Developer
+*📅 May 2025 - Jun 2025*
 
+<details>
+<summary>🎯 <strong>Key Achievements</strong></summary>
 
+•⁠  ⁠🏗️ *Engineered backend services* using JavaScript, Express.js, and SQL
+•⁠  ⁠⚡ *99.9% uptime* achieved with 30% faster response times
+•⁠  ⁠🗄️ *Optimized SQL database* by cutting query time by 40%
+•⁠  ⁠🔧 *Built RESTful APIs* handling 10,000+ requests per day
+•⁠  ⁠🔐 *Implemented JWT-based authentication* for enhanced security
+•⁠  ⁠🏅 *A+ distinction* - Top of the batch
 
+</details>
 
+### 🌱 *Organic by Pooja* - Full Stack Developer (Internship)
+*📅 Aug 2024 - Sept 2024*
 
+<details>
+<summary>🎯 <strong>Key Achievements</strong></summary>
 
+•⁠  ⁠🛒 *Developed e-commerce server-side application* with 40% improved transaction efficiency
+•⁠  ⁠🌐 *Built robust API endpoints* handling 500+ daily requests
+•⁠  ⁠⚡ *Reduced query execution time* by 35% through database optimization
+•⁠  ⁠🔒 *Implemented JWT authentication* reducing unauthorized access by 20%
+•⁠  ⁠💳 *Integrated PhonePe payment gateway* reducing checkout failures by 20%
 
+</details>
 
+---
 
+## 🚀 *Featured Projects*
 
+<div align="center">
 
+### 🍽️ *Satvik Meals* - Healthy Food Delivery Startup
+*📅 Oct 2024 - Nov 2024*
 
+</div>
 
+<table>
+<tr>
+<td width="60%">
+
+*🎯 Project Overview:*
+•⁠  ⁠🏢 *Founded and led* a complete healthy food delivery platform
+•⁠  ⁠🔧 *Full-stack development* using React, Firebase, Node.js, Express.js, SQL
+•⁠  ⁠📱 *Seamless ordering system* with real-time delivery tracking
+•⁠  ⁠💳 *Secure payment gateway* integration
+•⁠  ⁠📊 *Customer engagement features* including subscriptions and feedback
+
+</td>
+<td width="40%">
+
+*📈 Impact:*
+•⁠  ⁠✅ *End-to-end operations*
+•⁠  ⁠📈 *Successfully scaled platform*
+•⁠  ⁠🤝 *Strong client relationships*
+•⁠  ⁠🔄 *User retention features*
+•⁠  ⁠🚀 *Complete startup experience*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ *Technical Arsenal*
+
+<div align="center">
 
+### *Languages*
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### *Backend Technologies*
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+### *Frontend Technologies*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-DegreeInstitutionDurationMaster of Computer Applications (MCA)KIIT (Kalinga Institute of Industrial Technology)2025 - 2027Bachelor of Computer Applications (BCA)Chandigarh University2022 - 2025
+### *Databases*
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <img src="https://img.shields.io/badge/Education-📚-00D4FF?style=flat-square" alt="Education Badge">
+### *Tools & Platforms*
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-💼 Professional Experience
-Seagro - Backend Developer
-📅 May 2025 - Jun 2025
+</div>
 
-Engineered backend services using JavaScript, Express.js, and SQL
-Achieved 99.9% uptime with 30% faster response times
-Optimized SQL queries reducing execution time by 40%
-Developed RESTful APIs handling 10,000+ daily requests
-Implemented JWT authentication for enhanced security
-Earned A+ distinction, top of the batch
+---
 
-Organic by Pooja - Full Stack Developer (Internship)
-📅 Aug 2024 - Sept 2024
+## 🏆 *Certifications & Achievements*
 
-Built e-commerce server improving transaction efficiency by 40%
-Created API endpoints handling 500+ daily requests
-Optimized query execution reducing response time by 35%
-Integrated JWT authentication reducing unauthorized access by 20%
-Implemented PhonePe payment gateway cutting checkout failures by 20%
+<div align="center">
 
+| 🎯 *Category* | 🏅 *Certification* | 🏢 *Organization* | 📊 *Score* |
+|:---:|:---|:---|:---:|
+| 🚀 *Hackathon* | Certificate of Participation, IndustriAI 24hr Hackathon | IIT Madras (Shaastra) | ⭐ |
+| 🎓 *NPTEL* | Privacy and Security in Online Social Media | NPTEL | 70% |
+| 💻 *HackerRank* | Python (Basic) | HackerRank | ✅ |
+| 🌐 *HackerRank* | REST API (Intermediate) | HackerRank | ✅ |
+| ⚛️ *HackerRank* | React (Basic) | HackerRank | ✅ |
+| 🤖 *LinkedIn* | AI Fundamentals for Data Professionals | LinkedIn Learning | ✅ |
+| 📱 *LinkedIn* | Programming for Non-Programmers: iOS 15 and Swift 5 | LinkedIn Learning | ✅ |
 
-  <img src="https://img.shields.io/badge/Experience-💼-FF5722?style=flat-square" alt="Experience Badge">
+</div>
 
-🚀 Featured Project
-Satvik Meals - Healthy Food Delivery Startup
-📅 Oct 2024 - Nov 2024
+---
 
-Full-stack development with React, Firebase, Node.js, Express.js, SQL
-Real-time order and delivery tracking
-Secure payment gateway integration
-Customer engagement features including subscriptions and feedback
-Managed end-to-end operations and scaled platform architecture
+## 🎯 *Core Competencies*
 
+<table>
+<tr>
+<td width="50%">
 
-  <img src="https://img.shields.io/badge/Project-🚀-4CAF50?style=flat-square" alt="Project Badge">
+### 🔧 *Technical Skills*
+•⁠  ⁠🧩 *Problem-Solving & Critical Thinking*
+•⁠  ⁠🚀 *System Architecture Design*
+•⁠  ⁠⚡ *Performance Optimization*
+•⁠  ⁠🔐 *Security Implementation*
+•⁠  ⁠📊 *Database Management*
 
-📊 Performance Metrics
+</td>
+<td width="50%">
 
+### 🤝 *Soft Skills*
+•⁠  ⁠👥 *Teamwork & Collaboration*
+•⁠  ⁠🔄 *Adaptability & Quick Learning*
+•⁠  ⁠💬 *Communication & Interpersonal Skills*
+•⁠  ⁠👨‍💼 *Leadership & Time Management*
+•⁠  ⁠🎯 *Project Management*
 
+</td>
+</tr>
+</table>
 
+---
 
+## 📊 *Performance Metrics*
 
+<div align="center">
 
+| 📈 *Metric* | 📊 *Achievement* |
+|:---:|:---:|
+| *System Performance Improvement* | 25% ⬆️ |
+| *Database Query Optimization* | 35-40% ⬇️ |
+| *Transaction Efficiency* | 40% ⬆️ |
+| *Response Time Improvement* | 30% ⚡ |
+| *System Uptime* | 99.9% 🎯 |
+| *API Requests Handled* | 10,000+ daily 🌐 |
+| *Security Breach Reduction* | 20% 🔐 |
 
+</div>
 
+---
 
+## 🎨 *Fun Animations*
 
+<div align="center">
 
+![Snake animation](https://github.com/madhavpathak/madhavpathak/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
+---
 
+## 📞 *Let's Connect!*
 
+<div align="center">
 
+	⁠"Always open to discussing new opportunities and innovative projects!"
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavpathak)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmadhav2803@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+918171924503)
 
+---
 
+⭐ *If you find my work interesting, please consider giving it a star!* ⭐
 
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MetricAchievementSystem Performance⬆️ 25% ImprovementDatabase Query Optimization⬇️ 35-40% ReductionTransaction Efficiency⬆️ 40% ImprovementResponse Time⬆️ 30% FasterSystem Uptime99.9% AvailabilityAPI Requests10,000+ DailySecurity Breaches⬇️ 20% Reduction
-🏆 Certifications & Achievements
-
-IndustriAI 24hr Hackathon — Participated, IIT Madras (Shaastra) <img src="https://img.shields.io/badge/Hackathon-🏆-FFD700?style=flat-square" alt="Hackathon">
-Privacy and Security in Online Social Media — NPTEL 70% <img src="https://img.shields.io/badge/NPTEL-📜-2196F3?style=flat-square" alt="NPTEL">
-Python (Basic) — HackerRank <img src="https://img.shields.io/badge/HackerRank-Python-00C853?style=flat-square" alt="Python Cert">
-REST API (Intermediate) — HackerRank <img src="https://img.shields.io/badge/HackerRank-REST%20API-00C853?style=flat-square" alt="REST API Cert">
-React (Basic) — HackerRank <img src="https://img.shields.io/badge/HackerRank-React-00C853?style=flat-square" alt="React Cert">
-AI Fundamentals for Data Professionals — LinkedIn Learning <img src="https://img.shields.io/badge/LinkedIn%20Learning-AI-0077B5?style=flat-square" alt="AI Cert">
-Programming for Non-Programmers: iOS 15 and Swift 5 — LinkedIn Learning <img src="https://img.shields.io/badge/LinkedIn%20Learning-Swift-0077B5?style=flat-square" alt="Swift Cert">
-A+ Performance, Top Performer — Seagro <img src="https://img.shields.io/badge/Seagro-A%2B-FF9800?style=flat-square" alt="Seagro Award">
-Innovation Award — Satvik Meals Project <img src="https://img.shields.io/badge/Innovation-Award-FFD700?style=flat-square" alt="Innovation Award">
-
-
-  <img src="https://img.shields.io/badge/Certifications-🏅-9C27B0?style=flat-square" alt="Certifications Badge">
-
-🎯 Core Competencies
-Technical Skills
-
-Problem-Solving & Critical Thinking
-System Architecture Design
-Performance Optimization
-Security Implementation
-Database Management
-
-Soft Skills
-
-Teamwork & Collaboration
-Adaptability & Quick Learning
-Communication
-Leadership & Time Management
-Project Management
-
-
-  <img src="https://img.shields.io/badge/Skills-🎯-FFC107?style=flat-square" alt="Skills Badge">
-
-📈 GitHub Analytics
-
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavpathak&#x26;show_icons=true&#x26;theme=radical&#x26;hide_border=true&#x26;include_all_commits=true&#x26;count_private=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavpathak&#x26;layout=compact&#x26;theme=radical&#x26;hide_border=true" width="35%">
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavpathak&#x26;theme=radical&#x26;hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavpathak&#x26;bg_color=1a1b27&#x26;color=ffffff&#x26;line=00D4FF&#x26;point=ffffff&#x26;area=true&#x26;hide_border=true" alt="Contribution Graph">
-
-(Note: Snake animation removed due to blank image. Set up github-snake for a custom one if desired.)
-💭 Developer Philosophy
-
-"Code is like humor. When you have to explain it, it's bad." – Clean Code Advocate
-
-<img src="https://img.shields.io/badge/Clean%20Code-Advocate-00D4FF?style=flat-square" alt="Clean Code">
-📞 Let's Connect!
-
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&#x26;logo=gmail" alt="Email">
-
-⭐ Star this repository if you find my work inspiring! ⭐
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&#x26;color=gradient&#x26;height=100&#x26;section=footer" alt="Footer Banner">
+</div>
