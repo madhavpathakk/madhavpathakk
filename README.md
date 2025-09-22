@@ -2,256 +2,127 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavpathak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmadhav2803@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918171924503)
-
-</div>
-
----
-
-## 🚀 *Professional Summary*
-
-💡 *"Turning ideas into scalable digital solutions"*  
-
-Results-driven **Backend Developer** with expertise in **JavaScript, Node.js, Express.js, and SQL**, delivering **high-quality, scalable applications**. Improved system performance by **25%**, optimized queries by **40%**, and engineered backend systems with **99.9% uptime**.
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=madhavpathak&color=blueviolet&style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-10%2B-orange?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavpathak)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmadhav2803@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+918171924503)
 
 </div>
 
 ---
 
-## 🎓 *Education*
+## 🚀 Professional Summary
+> *Turning ideas into scalable digital solutions.*
 
-<table>
-<tr>
-<td align="center" width="50%">
+Result-driven **Backend Developer** experienced in building resilient, high-throughput systems using **Node.js, Express, and SQL**. Proven track record of measurable impact — improving system performance, reducing latency, and strengthening security for production services.
 
-### 🎯 *Current*
-**MCA** – KIIT (Kalinga Institute of Industrial Technology)  
-*2025 – 2027*
-
-</td>
-<td align="center" width="50%">
-
-### 🏆 *Completed*
-**BCA** – Chandigarh University  
-*2022 – 2025*
-
-</td>
-</tr>
-</table>
+**Key highlights**
+- → **System performance** improved by **25%** across services.  
+- → **Database query times** reduced by **35–40%** through indexing, query refactor and schema improvements.  
+- → Engineered APIs that handle **10,000+ requests/day** and maintain **99.9% uptime**.  
+- → Implemented **JWT-based auth** and payment integrations (PhonePe) for secure, reliable flows.
 
 ---
 
-## 💼 *Professional Experience*
-
-### 🔥 **Seagro – Backend Developer**  
-📅 *May 2025 – Jun 2025*  
-
-<details>
-<summary>🎯 <strong>Key Achievements</strong></summary>
-
-- 🏗️ Engineered backend services using **JavaScript, Express.js, SQL**  
-- ⚡ Achieved **99.9% uptime** with **30% faster responses**  
-- 🗄️ Optimized SQL queries, reducing execution time by **40%**  
-- 🔧 Built **REST APIs** handling *10,000+ daily requests*  
-- 🔐 Implemented **JWT authentication** for secure access  
-- 🏅 Achieved **A+ Distinction** – Top of the batch  
-
-</details>
+## 🎯 Core Competencies
+**Backend & APIs:** Node.js · Express · RESTful API design · JWT auth · Microservices basics  
+**Databases & Performance:** SQL (MySQL/Postgres) · Query optimization · Indexing · Transactions  
+**DevOps & Cloud:** AWS fundamentals · CI/CD · Logging & monitoring basics  
+**Frontend (full-stack experience):** React · Firebase · Tailwind CSS  
+**Soft skills:** Problem solving · Ownership · Cross-functional communication · Project leadership
 
 ---
 
-### 🌱 **Organic by Pooja – Full Stack Developer (Intern)**  
-📅 *Aug 2024 – Sept 2024*  
+## 💼 Professional Experience
 
-<details>
-<summary>🎯 <strong>Key Achievements</strong></summary>
+### **Seagro** — Backend Developer  
+*May 2025 – Jun 2025*  
+- Engineered backend services with **Node.js/Express** and SQL — delivered stable APIs used by production clients.  
+- Achieved **99.9% uptime** and **30% faster response times** by introducing connection pooling, optimized middlewares, and horizontal scaling.  
+- **Optimized database queries** (rewrote slow joins, added targeted indexes) → **40% reduction** in average query time.  
+- Built **REST API endpoints** handling **10,000+ daily requests**; added role-based access and JWT authentication.
 
-- 🛒 Developed **e-commerce server-side app** improving transactions by **40%**  
-- 🌐 Built **robust API endpoints** serving *500+ daily requests*  
-- ⚡ Reduced query execution time by **35%**  
-- 🔒 Implemented **JWT authentication** reducing unauthorized access by **20%**  
-- 💳 Integrated **PhonePe payment gateway**, cutting checkout failures by **20%**  
-
-</details>
-
----
-
-## 🚀 *Featured Project*
-
-<div align="center">
-
-### 🍽️ **Satvik Meals – Healthy Food Delivery Startup**  
-📅 *Oct 2024 – Nov 2024*  
-
-</div>
-
-<table>
-<tr>
-<td width="60%">
-
-🎯 **Overview**  
-- 🏢 Founded & led **end-to-end food delivery platform**  
-- 🔧 Full-stack development with **React, Node.js, Firebase, SQL**  
-- 📱 Real-time **order tracking system**  
-- 💳 Secure **payment gateway integration**  
-- 📊 Customer engagement via **subscriptions & feedback**  
-
-</td>
-<td width="40%">
-
-📈 **Impact**  
-- ✅ Complete startup experience  
-- 🚀 Successfully scaled platform  
-- 🤝 Strong client relationships  
-- 🔄 High user retention  
-
-</td>
-</tr>
-</table>
+### **Organic by Pooja** — Full Stack Developer (Intern)  
+*Aug 2024 – Sep 2024*  
+- Developed e-commerce backend services — checkout flow and order management; improved transaction throughput by **40%**.  
+- Built robust API endpoints handling **500+ daily requests**; optimized queries to cut execution time by **35%**.  
+- Implemented **JWT-based** authentication and integrated **PhonePe** payment gateway, reducing checkout failures by **20%**.
 
 ---
 
-## 🛠️ *Technical Arsenal*
+## 🚀 Featured Project — *Satvik Meals* (Founder & Lead Dev)  
+*Oct 2024 – Nov 2024*  
+**Overview:** End-to-end healthy food delivery platform (React, Firebase, Node.js, Express, SQL).  
+**What I built:** real-time order tracking, subscription management, secure payment integration, admin dashboards.  
+**Impact:** scaled the product to active users, improved retention through subscription features, and handled live deliveries with reliable notification flows.
 
-<div align="center">
-
-### 🔹 *Languages*  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-
-### 🔹 *Backend Technologies*  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)  
-
-### 🔹 *Frontend Technologies*  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-### 🔹 *Databases*  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### 🔹 *Tools & Platforms*  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)  
-
-</div>
+**Tech:** React · Node.js · Express · Firebase · PostgreSQL · Stripe/PhonePe (integrations)
 
 ---
 
-## 🏆 *Certifications & Achievements*
+## 🛠 Technical Arsenal
 
-<div align="center">
-
-| 🎯 *Category* | 🏅 *Certification* | 🏢 *Organization* | 📊 *Score* |
-|:---:|:---|:---|:---:|
-| 🚀 Hackathon | IndustriAI 24hr Hackathon | IIT Madras (Shaastra) | ⭐ |
-| 🚀 Hackathon | Convolve 3.0 – Pan IIT Hackathon | IIT Guwahati | ⭐ |
-| 🚀 Hackathon | Reckon 6.0 Hackathon | JIET | ⭐ |
-| 🎓 NPTEL | Privacy & Security in Online Social Media | NPTEL | 70% |
-| 💻 HackerRank | Python (Basic) | HackerRank | ✅ |
-| 💻 HackerRank | REST API (Intermediate) | HackerRank | ✅ |
-| ⚛️ HackerRank | React (Basic) | HackerRank | ✅ |
-| 🤖 LinkedIn | AI Fundamentals for Data Professionals | LinkedIn Learning | ✅ |
-
-</div>
+**Languages:** JavaScript · Python · Swift · C++ · SQL  
+**Backend:** Node.js · Express · JWT · Firebase · REST API design  
+**Frontend:** React · HTML5 · CSS3 · Tailwind CSS  
+**Databases:** PostgreSQL · MySQL  
+**Tools & Platforms:** Git · GitHub · Postman · Jira · VS Code · Docker (basics)  
+*(Prefer backend roles; comfortable owning full-stack features end-to-end.)*
 
 ---
 
-## 🎯 *Core Competencies*
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 *Technical Skills*
-- 🧩 Problem-Solving & Critical Thinking  
-- 🚀 System Architecture Design  
-- ⚡ Performance Optimization  
-- 🔐 Security Implementation  
-- 📊 Database Management  
-
-</td>
-<td width="50%">
-
-### 🤝 *Soft Skills*
-- 👥 Teamwork & Collaboration  
-- 🔄 Adaptability & Quick Learning  
-- 💬 Communication & Interpersonal Skills  
-- 👨‍💼 Leadership & Time Management  
-- 🎯 Project Management  
-
-</td>
-</tr>
-</table>
+## 🏆 Certifications & Achievements
+- IndustriAI 24-hr Hackathon — IIT Madras (Shaastra) — Participation  
+- Convolve 3.0 (Pan IIT AI/ML Hackathon) — IIT Guwahati — Participation  
+- Reckon 6.0 Hackathon — JIET — Participation  
+- Avatar: The Ultimate CEO of the Backwaters — IIM Kozhikode — Participation  
+- NPTEL — Privacy & Security in Online Social Media — **70%**  
+- HackerRank — Python (Basic), REST API (Intermediate), React (Basic)  
+- LinkedIn Learning — AI Fundamentals for Data Professionals; iOS 15 & Swift 5
 
 ---
 
-## 📊 *Performance Metrics*
-
-<div align="center">
-
-| 📈 *Metric* | 📊 *Achievement* |
-|:---:|:---:|
-| System Performance Improvement | 25% ⬆️ |
-| Database Query Optimization | 35–40% ⬇️ |
-| Transaction Efficiency | 40% ⬆️ |
-| Response Time Improvement | 30% ⚡ |
-| System Uptime | 99.9% 🎯 |
-| API Requests Handled | 10,000+ daily 🌐 |
-| Security Breach Reduction | 20% 🔐 |
-
-</div>
+## 📊 Performance Metrics (Concise)
+| Metric | Achievement |
+|---:|:---|
+| System performance improvement | **25%** |
+| Database query optimization | **35–40%** (avg) |
+| Transaction efficiency | **40%** |
+| Response time improvement | **30%** |
+| System uptime | **99.9%** |
+| API requests handled | **10,000+ / day** |
+| Security breach reduction | **20%** |
 
 ---
 
-## 🎨 *Fun Animations*
-
-<div align="center">
-
-![Snake animation](https://github.com/madhavpathak/madhavpathak/blob/output/github-contribution-grid-snake.svg)  
-
-![Metrics](https://github-readme-streak-stats.herokuapp.com/?user=madhavpathak&theme=tokyonight&hide_border=true)  
-
-</div>
+## ✨ Selected Professional Traits (for recruiters)
+- **Impact-first:** I prioritize measurable improvements (latency, throughput, cost).  
+- **Ownership:** I ship features end-to-end and maintain them in production.  
+- **Fast learner:** Quick to adopt new tools and follow best practices for security & scale.  
+- **Team player:** Communicates clearly with PMs/designers/QA to deliver polished releases.
 
 ---
 
-## 📞 *Let's Connect!*
-
-<div align="center">
-
-💬 *"Always open to discussing new opportunities and innovative projects!"*  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavpathak)  
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmadhav2803@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+918171924503)  
+## 🎨 Subtle Professional Animations & Badges (recommended)
+- Typing header (keeps README modern but minimal) — included above.  
+- Contribution snake or streak is optional — I recommend **keeping visuals minimal** for recruiter readability.  
+- If you want a more visual "skills meter", I can provide a polished SVG progress bar set (ATS-safe) or a small animated GIF for your portfolio site.
 
 ---
 
-⭐ *If you find my work interesting, please consider giving it a star!* ⭐  
+## 📞 Let’s Connect
+> *Always open to discussing roles where I can add measurable backend impact.*
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+[LinkedIn](https://linkedin.com/in/madhavpathak) · [Email](mailto:pathakmadhav2803@gmail.com) · Tel: +91 81719 24503
 
-</div>
+---
+
+**Notes & next steps I can do for you (pick any):**
+1. Produce an **ATS-friendly 1-page resume (PDF)** from this content.  
+2. Create a **LinkedIn-optimized summary** (short + keyword-focused).  
+3. Add **compact skill-level progress bars** or a minimal SVG animation for your GitHub README.  
+4. Convert README to a **clean portfolio HTML page** with subtle Framer Motion animations (ready-to-deploy).
+
+Tell me the number you want (1–4) or say **"deliver README only"** and I'll finalize any micro-tweaks (no waiting).  
+If you'd like immediate changes, I’ll apply them now.
