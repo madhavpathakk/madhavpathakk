@@ -118,11 +118,3 @@ Result-driven **Backend Developer** experienced in building resilient, high-thro
 
 ---
 
-**Notes & next steps I can do for you (pick any):**
-1. Produce an **ATS-friendly 1-page resume (PDF)** from this content.  
-2. Create a **LinkedIn-optimized summary** (short + keyword-focused).  
-3. Add **compact skill-level progress bars** or a minimal SVG animation for your GitHub README.  
-4. Convert README to a **clean portfolio HTML page** with subtle Framer Motion animations (ready-to-deploy).
-
-Tell me the number you want (1–4) or say **"deliver README only"** and I'll finalize any micro-tweaks (no waiting).  
-If you'd like immediate changes, I’ll apply them now.
