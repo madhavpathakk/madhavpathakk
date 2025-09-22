@@ -1,241 +1,182 @@
+👨‍💻 Madhav Pathak
 <div align="center">
-
-  <h1>Hey there 👋, I'm Madhav Pathak!</h1>
-
-  <p>A results-driven Backend Developer with a passion for building scalable and efficient applications.</p>
 
 </div>
 
-
-
-<div align="center">
-
-  <h2>🐍 My Contributions 🐍</h2>
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-
-
-<br>
-
-
+🚀 Professional Summary
+⁠"Turning ideas into scalable digital solutions"
+Results-driven Backend Developer with a proven track record of designing and delivering high-quality, scalable applications. Specialized in JavaScript, Node.js, Express.js, and SQL with demonstrated success in improving system performance by 25% and optimizing database queries.
 
 <div align="center">
 
-  <h2>🏆 Hackathon Achievements 🏆</h2>
-
-  <table align="center">
-
-    <thead>
-
-      <tr>
-
-        <th>#</th>
-
-        <th>Hackathon</th>
-
-        <th>Track</th>
-
-        <th>Achievement</th>
-
-        <th>Prize</th>
-
-      </tr>
-
-    </thead>
-
-    <tbody>
-
-      <tr>
-
-        <td>10</td>
-
-        <td>HackSRM 5.0</td>
-
-        <td>Web3</td>
-
-        <td>Won Marbalism</td>
-
-        <td>$500 USD</td>
-
-      </tr>
-
-      <tr>
-
-        <td>9</td>
-
-        <td>Hackspiration’24 MLC VIT</td>
-
-        <td>Web3</td>
-
-        <td>Best Web3 Project (SolidityScan, QuillAudit)</td>
-
-        <td>$2570 USD</td>
-
-      </tr>
-
-      <tr>
-
-        <td>8</td>
-
-        <td>DimoHack VIT-AP</td>
-
-        <td>Web3</td>
-
-        <td>Won Hyperlane, XDC, Lync</td>
-
-        <td>$533 USD</td>
-
-      </tr>
-
-      <tr>
-
-        <td>7</td>
-
-        <td>HackPrix Telangana</td>
-
-        <td>Open</td>
-
-        <td>Overall Winner & Internship at Catalog</td>
-
-        <td>₹30,000 INR</td>
-
-      </tr>
-
-      <tr>
-
-        <td>6</td>
-
-        <td>Recurzive Hackathon</td>
-
-        <td>Web3</td>
-
-        <td>NEAR Protocol bounty</td>
-
-        <td>₹10,000 INR + $300 USD</td>
-
-      </tr>
-
-      <tr>
-
-        <td>5</td>
-
-        <td>Sambanova Lightning Hackathon</td>
-
-        <td>AI</td>
-
-        <td>Community Selected Project</td>
-
-        <td>$500 USD</td>
-
-      </tr>
-
-      <tr>
-
-        <td>4</td>
-
-        <td>American Allegiance of Education</td>
-
-        <td>Education</td>
-
-        <td>Top 10 Winners</td>
-
-        <td>$100 USD</td>
-
-      </tr>
-
-      <tr>
-
-        <td>3</td>
-
-        <td>Soario: AI Apps for Impact</td>
-
-        <td>AI</td>
-
-        <td>2nd Place - High School Division</td>
-
-        <td>$200 USD</td>
-
-      </tr>
-
-      <tr>
-
-        <td>2</td>
-
-        <td>Zero to One Hackathon by Convex</td>
-
-        <td>Web3</td>
-
-        <td>Community Selected</td>
-
-        <td>$1500 USD</td>
-
-      </tr>
-
-      <tr>
-
-        <td>1</td>
-
-        <td>DeFine: Powered by Diamante</td>
-
-        <td>Web3</td>
-
-        <td>Best DeFi Application</td>
-
-        <td>$2000 DIAM + 200 USDT</td>
-
-      </tr>
-
-    </tbody>
-
-  </table>
-
 </div>
 
+🎓 Education
+<table>
+<tr>
+<td align="center" width="50%">
 
+🎯 Current
+Master of Computer Applications (MCA)  
+KIIT (Kalinga Institute of Industrial Technology)  
+2025 - 2027
 
-<br>
+</td>
+<td align="center" width="50%">
 
+🏆 Completed
+Bachelor of Computer Applications (BCA)  
+Chandigarh University  
+2022 - 2025
 
+</td>
+</tr>
+</table>
 
+💼 Professional Experience
+🔥 Seagro - Backend Developer
+📅 May 2025 - Jun 2025
+
+<details>
+<summary>🎯 Key Achievements</summary>
+
+•⁠  ⁠🏗️ Engineered backend services using JavaScript, Express.js, and SQL
+•⁠  ⁠⚡ 99.9% uptime achieved with 30% faster response times
+•⁠  ⁠🗄️ Optimized SQL database by cutting query time by 40%
+•⁠  ⁠🔧 Built RESTful APIs handling 10,000+ requests per day
+•⁠  ⁠🔐 Implemented JWT-based authentication for enhanced security
+•⁠  ⁠🏅 A+ distinction - Top of the batch
+
+</details>
+
+🌱 Organic by Pooja - Full Stack Developer (Internship)
+📅 Aug 2024 - Sept 2024
+
+<details>
+<summary>🎯 Key Achievements</summary>
+
+•⁠  ⁠🛒 Developed e-commerce server-side application with 40% improved transaction efficiency
+•⁠  ⁠🌐 Built robust API endpoints handling 500+ daily requests
+•⁠  ⁠⚡ Reduced query execution time by 35% through database optimization
+•⁠  ⁠🔒 Implemented JWT authentication reducing unauthorized access by 20%
+•⁠  ⁠💳 Integrated PhonePe payment gateway reducing checkout failures by 20%
+
+</details>
+
+🚀 Featured Projects
 <div align="center">
 
-  <h2>Leetcode Info</h2>
-
-  <p>
-
-    <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-
-    <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-
-    <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-
-    <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-
-  </p>
+🍽️ Satvik Meals - Healthy Food Delivery Startup
+📅 Oct 2024 - Nov 2024
 
 </div>
 
+<table>
+<tr>
+<td width="60%">
 
+🎯 Project Overview:
+•⁠  ⁠🏢 Founded and led a complete healthy food delivery platform
+•⁠  ⁠🔧 Full-stack development using React, Firebase, Node.js, Express.js, SQL
+•⁠  ⁠📱 Seamless ordering system with real-time delivery tracking
+•⁠  ⁠💳 Secure payment gateway integration
+•⁠  ⁠📊 Customer engagement features including subscriptions and feedback
 
-<br>
+</td>
+<td width="40%">
 
+📈 Impact:
+•⁠  ⁠✅ End-to-end operations
+•⁠  ⁠📈 Successfully scaled platform
+•⁠  ⁠🤝 Strong client relationships
+•⁠  ⁠🔄 User retention features
+•⁠  ⁠🚀 Complete startup experience
 
+</td>
+</tr>
+</table>
 
+🛠️ Technical Arsenal
 <div align="center">
 
-  <h2>⚡ Current Statistics ⚡</h2>
+Languages
+Backend Technologies
+Frontend Technologies
+Databases
+Tools & Platforms
+</div>
 
-  <img width="390" src="https://streak-stats.demolab.com/?user=nishant-Tiwari24&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+🏆 Certifications & Achievements
+<div align="center">
 
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nishant-Tiwari24&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
+🎯 Category	🏅 Certification	🏢 Organization
+🚀 Hackathons	Certificate of Participation, IndustriAI 24hr Hackathon	IIT Madras (Shaastra)
+Certificate of Participation, Convolve 3.0: A Pan IIT AI/ML Hackathon	IIT Guwahati
+Certificate of Participation, Reckon 6.0 Hackathon	Jodhpur Institute of Engineering And Technology (JIET)
+Certificate of Participation, Avatar: The Ultimate CEO of the Backwaters 2025	IIM Kozhikode
+📊 Quizzes & Challenges	Certificate of Participation, Flipkart GRiD 5.0 - E-Commerce & Tech Quiz	Flipkart
+Certificate of Participation, NationBuilding Case Study Competition 2025	NationBuilding
+Certificate of Participation, Asian Paints INSPIRA - Round 1: Quiz	Asian Paints
+🎓 NPTEL	Privacy and Security in Online Social Media	NPTEL
+💻 HackerRank	Python (Basic)	HackerRank
+REST API (Intermediate)	HackerRank
+React (Basic)	HackerRank
+🤖 LinkedIn	AI Fundamentals for Data Professionals	LinkedIn Learning
+Programming for Non-Programmers: iOS 15 and Swift 5	LinkedIn Learning
 
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-Tiwari24&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+Export to Sheets
+</div>
+
+🎯 Core Competencies
+<table>
+<tr>
+<td width="50%">
+
+🔧 Technical Skills
+•⁠  ⁠🧩 Problem-Solving & Critical Thinking
+•⁠  ⁠🚀 System Architecture Design
+•⁠  ⁠⚡ Performance Optimization
+•⁠  ⁠🔐 Security Implementation
+•⁠  ⁠📊 Database Management
+
+</td>
+<td width="50%">
+
+🤝 Soft Skills
+•⁠  ⁠👥 Teamwork & Collaboration
+•⁠  ⁠🔄 Adaptability & Quick Learning
+•⁠  ⁠💬 Communication & Interpersonal Skills
+•⁠  ⁠👨‍💼 Leadership & Time Management
+•⁠  ⁠🎯 Project Management
+
+</td>
+</tr>
+</table>
+
+📊 Performance Metrics
+<div align="center">
+
+📈 Metric	📊 Achievement
+System Performance Improvement	25% ⬆️
+Database Query Optimization	35-40% ⬇️
+Transaction Efficiency	40% ⬆️
+Response Time Improvement	30% ⚡
+System Uptime	99.9% 🎯
+API Requests Handled	10,000+ daily 🌐
+Security Breach Reduction	20% 🔐
+
+Export to Sheets
+</div>
+
+🎨 Fun Animations
+<div align="center">
 
 </div>
 
+📞 Let's Connect!
+<div align="center">
 
+⁠"Always open to discussing new opportunities and innovative projects!"
+⭐ If you find my work interesting, please consider giving it a star! ⭐
 
-<br>
+</div>
